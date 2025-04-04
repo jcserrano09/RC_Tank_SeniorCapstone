@@ -1,0 +1,7 @@
+Number of unique parts on the board: 29
+Number of surface mount parts on the board: 20
+Number of QFP/BGA parts on the board: 0
+Number of Through hole mount parts on the board: 9
+Board dimensions: 5.5" x 3.6"
+
+
